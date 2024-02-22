@@ -1,0 +1,6 @@
+[project]
+name="llm_experiments"
+version = "0.0.1"
+
+[tool.setuptools]
+packages = ["llm_experiments"]

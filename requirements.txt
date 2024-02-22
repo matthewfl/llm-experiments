@@ -1,0 +1,8 @@
+torch
+guidance
+dspy-ai
+jupyter[notebook]
+numpy
+
+keras-nlp
+keras
