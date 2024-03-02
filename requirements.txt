@@ -1,6 +1,6 @@
 torch
 #guidance
--e git+https://github.com/guidance-ai/guidance.git
+git+https://github.com/guidance-ai/guidance.git
 dspy-ai
 jupyter[notebook]
 numpy
@@ -9,6 +9,8 @@ keras-nlp
 keras  # >=3.0.0
 
 #llama-cpp-python # do CMAKE_ARGS="-DLLAMA_CUBLAS=1" pip install llama-cpp-python 
--e git+https://github.com/abetlen/llama-cpp-python.git
+git+https://github.com/abetlen/llama-cpp-python.git
 
 huggingface-hub
+
+git+https://github.com/huggingface/transformers.git
